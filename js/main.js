@@ -1,1 +1,1 @@
-var a = document.querySelector("p");
+var a = document.querySelector("p").innerHTML = "Hello!";
